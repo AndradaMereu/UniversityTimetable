@@ -1,0 +1,4 @@
+2,pqw,pqw@csubb,lecturer
+3,popo,pupu,professor
+14,pop,pop@csubb,lecturer
+10,maria,m@ubbcluj,lecturer
